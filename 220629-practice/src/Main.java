@@ -6,5 +6,7 @@ public class Main {
 		System.out.println("Hello World 2");
 		// push 연습
 		System.out.println("연습중");
+		// 한번더 push연습
+		System.out.println("두번째");
 	}
 }
