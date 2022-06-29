@@ -8,5 +8,7 @@ public class Main {
 		System.out.println("연습중");
 		// 한번더 push연습
 		System.out.println("두번째");
+		// 마지막 연습
+		System.out.println("마지막");
 	}
 }
