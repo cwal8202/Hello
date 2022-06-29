@@ -1,9 +1,7 @@
 
 public class Main {
-
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		// helloworld 할 것이다.
+		System.out.println("Hello World");
 	}
-
 }
